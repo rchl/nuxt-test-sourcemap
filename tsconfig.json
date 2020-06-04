@@ -1,0 +1,33 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "target": "esnext",
+        "module": "esnext",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "noEmit": true,
+        "allowJs": true,
+        "checkJs": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "resolveJsonModule": true,
+        "paths": {
+            "~/*": [
+                "app/*"
+            ]
+        },
+        "lib": [
+            "dom",
+            "esnext",
+        ],
+        "types": [
+            "./types",
+            "@nuxt/types",
+            "@nuxtjs/axios",
+            "cookie-universal-nuxt",
+            "@types/connect",
+            "@types/express",
+            "cookie-universal-nuxt",
+        ],
+    },
+}

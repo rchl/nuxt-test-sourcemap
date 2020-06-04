@@ -1,0 +1,8 @@
+{
+    "vetur.experimental.templateInterpolationService": true,
+    "vetur.format.defaultFormatter.html": "none",
+    "vetur.format.defaultFormatter.js": "none",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+}
