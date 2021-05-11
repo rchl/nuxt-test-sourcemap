@@ -9,6 +9,7 @@ $ yarn
 # serve with hot reload at localhost:9000
 $ yarn dev
 ```
+xxx
 
 For more details on nuxt framework, checkout [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
