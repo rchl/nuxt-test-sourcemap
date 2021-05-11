@@ -10,6 +10,7 @@ $ yarn
 $ yarn dev
 ```
 xxx
+yyy
 
 For more details on nuxt framework, checkout [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
