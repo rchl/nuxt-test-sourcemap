@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "baseUrl": ".",
+        "baseUrl": ".xxx",
         "target": "esnext",
         "module": "esnext",
         "esModuleInterop": true,
